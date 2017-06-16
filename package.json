@@ -1,0 +1,19 @@
+{
+  "name": "chench_first_app",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "goods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chench0597/myapp.git"
+  },
+  "author": "chench",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chench0597/myapp/issues"
+  },
+  "homepage": "https://github.com/chench0597/myapp#readme"
+}
